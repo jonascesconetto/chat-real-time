@@ -8,3 +8,7 @@ Sistema de Chat inspirado em Discord/Slack.
 
 A aplicação foi construída utilizando os conceitos de microsserviços e arquitetada com Docker. 
 Para roda-la será necessário basicamente rodar o comando **docker-compose up**.
+
+## Fontes
+* [Autenticação](https://github.com/codeedu/maratona-fullcycle-4/tree/master/micro-auth)
+* [API Rest](https://github.com/codeedu/maratona-fullcycle-4/tree/master/micro-api)
